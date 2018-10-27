@@ -1,0 +1,114 @@
+---
+layout: null
+title: Jekyll Theme - Home Page - Massively
+description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
+sitemap:
+    priority: 1.0
+    lastmod: 2017-11-02
+    changefreq: weekly
+---
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+    {% include head.html %}
+
+
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+            <h1>{{site.title}}</h1>
+            <img src="{{ "/images/axe-logo.png" | absolute_url }}" alt="" /></a>
+						<h2>Makin' It Great Since 1908</h2>
+						<p>The offical website of the Zeta chapter of <a href="https://alphachisigma.org">Alpha Chi Sigma</a> at the University of Illinois</p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<h2><a href="#">Our Objects:</a></h2>
+									<p>1) To bind its members with a tie of true and lasting friendship. <br />
+                    2) To strive for the advancement of chemistry both as a science and as a profession. <br />
+                    3) To aid its members by every honorable means in the attainment of their ambitions as <br />
+                    chemists throughout their mortal lives.</p>
+								</header>
+								<a href="#" class="image main"><img src="{{ "/images/axe-sp15-pledges.jpg" | absolute_url }}" alt="" /></a>
+                <p>We are a professional chemistry fraternity aiming to help the undergraduates and graduates in chemistry at the University of Illinois. We have over 60 active members and have initiated thousands of students and professors, and we are also the largest chapter in the nation!</p>
+                <p>Members who initiate will make lifelong friends as well have access to awesome resources like professors, study resources, wonderful workshops, and more. If you are interested in joining, we have rush at the beginning of every semester. If you are a professor or company looking to get in contact, feel free to fill out the form in the bottom and we will reach out from there.
+								</p>
+							</article>
+
+						<!-- Posts -->
+							<section class="posts">
+                {% for post in site.posts limit:3 %}
+                {% assign mod3 = forloop.index | modulo: 3 %}
+  								<article>
+  									<header>
+  										<span class="date">{{ post.date | date_to_string }}</span>
+  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+  									</header>
+  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									<p>{{ post.excerpt }}</p>
+  									<ul class="actions">
+  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+  									</ul>
+  								</article>
+                  {% if mod3 == 0 %}
+                  <article>
+  									<header>
+  										<h2><a href="#">Sponsored</a></h2>
+  									</header>
+
+  								</article>
+                  {% endif %}
+                {% endfor %}
+
+							</section>
+
+						<!-- Footer -->
+							<footer>
+                <ul class="actions">
+                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
+                </ul>
+							</footer>
+
+					</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+		<!-- Scripts -->
+		{% include scripts-main.html %}
+    {% include tracking.html %}
+
+	</body>
+</html>
