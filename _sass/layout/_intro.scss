@@ -27,6 +27,7 @@
 		h1 {
 			font-size: 5rem;
 			line-height: 1;
+      color: #dee7f4;
 		}
 
 		p {
@@ -38,6 +39,7 @@
 
 		& + #header {
 			margin-top: -20rem;
+      color: "#000000";
 
 			.logo {
 				@include vendor('transform', 'translateY(2rem)');
