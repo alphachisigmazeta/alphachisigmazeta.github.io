@@ -4,123 +4,113 @@ title:  "Fall 18 Rushes"
 date:   2018-10-29
 excerpt: "New Members! :)"
 image: "/images/fa18-exec.jpg"
+published: false
 ---
 
-## Fall 2018 Pledges
-
-<span class="image left"><img src="{{ "/images/axe-logo.png" | absolute_url }}" alt="" /></span>
-
-Alpha Chi Sigma is a unique professional and social fraternity for men and women in the chemical sciences. We are bound by three fraternal objects, which are:
-1. To bind its members with a tie of true and lasting friendship.
-1. To strive for the advancement of chemistry, both as a science and as a profession.
-1. To aid its members by every honorable means in the attainment of their ambitions as chemists throughout their mortal lives.
-
-Every semester, we let in a cohort of anywhere from 15-35 new pledges working towards initation, and ultimately membership. We welcome the potential pledge class of Fall 2018 below!
+<span class="image left"><img src="{{ "/images/caleb.jpg" | absolute_url }}" height="250" alt="" /></span>
+## Master Alchemist Caleb Ju
+Caleb is a junior studying math and computer science, before specialized chemistry. He enjoys the application of
+science with technology, especially in computational biology. His goals for the semester are to help bring
+high quality professional and social events to better bond its brothers.
 
 ---
 
 <span class="image left"><img src="{{ "/images/stock.jpeg" | absolute_url }}" height="250" alt="" /></span>
-## Person
+## VMA Stephanie Tapia
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ---
 
 <span class="image left"><img src="{{ "/images/stock.jpeg" | absolute_url }}" height="250" alt="" /></span>
-## Person
+## VMA Synthyce Kanku
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ---
 
 <span class="image left"><img src="{{ "/images/stock.jpeg" | absolute_url }}" height="250" alt="" /></span>
-## Person
+## Master of Ceremonies Trisha Cordero
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ---
 
 <span class="image left"><img src="{{ "/images/stock.jpeg" | absolute_url }}" height="250" alt="" /></span>
-## Person
+## Treasurer Anastasia Metropoulos
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ---
 
 <span class="image left"><img src="{{ "/images/stock.jpeg" | absolute_url }}" height="250" alt="" /></span>
-## Person
+## Prof. Chair Lindsey L.
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ---
 
 <span class="image left"><img src="{{ "/images/stock.jpeg" | absolute_url }}" height="250" alt="" /></span>
-## Person
+## Prof. Chair Vivian Perez
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ---
 
 <span class="image left"><img src="{{ "/images/stock.jpeg" | absolute_url }}" height="250" alt="" /></span>
-## Person
+## Social Chair Aditya Alluri
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ---
 
 <span class="image left"><img src="{{ "/images/stock.jpeg" | absolute_url }}" height="250" alt="" /></span>
-## Person
+## Social Chair Derek Zhang
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ---
 
 <span class="image left"><img src="{{ "/images/stock.jpeg" | absolute_url }}" height="250" alt="" /></span>
-## Person
+## Fundraising Chair Abu
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ---
 
 <span class="image left"><img src="{{ "/images/stock.jpeg" | absolute_url }}" height="250" alt="" /></span>
-## Person
+## Fundraising Chair Rida Alikhan
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ---
 
 <span class="image left"><img src="{{ "/images/stock.jpeg" | absolute_url }}" height="250" alt="" /></span>
-## Person
+## Alumni Secretary Sasu
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ---
 
 <span class="image left"><img src="{{ "/images/stock.jpeg" | absolute_url }}" height="250" alt="" /></span>
-## Person
+## Recorder Jasmine Domingo
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ---
 
 <span class="image left"><img src="{{ "/images/stock.jpeg" | absolute_url }}" height="250" alt="" /></span>
-## Person
+## Reporter Matthew Mote
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ---
 
 <span class="image left"><img src="{{ "/images/stock.jpeg" | absolute_url }}" height="250" alt="" /></span>
-## Person
+## EC Rep Aayush
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ---
 
 <span class="image left"><img src="{{ "/images/stock.jpeg" | absolute_url }}" height="250" alt="" /></span>
-## Person
+## Cyber Alchemist Ishaan Laul
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ---
 
 <span class="image left"><img src="{{ "/images/stock.jpeg" | absolute_url }}" height="250" alt="" /></span>
-## Person
+## Krug Chair Nathan Lin
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ---
 
 <span class="image left"><img src="{{ "/images/stock.jpeg" | absolute_url }}" height="250" alt="" /></span>
-## Person
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
----
-
-<span class="image left"><img src="{{ "/images/stock.jpeg" | absolute_url }}" height="250" alt="" /></span>
-## Person
+## Krug Chair Fiona Qu
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
