@@ -4,6 +4,7 @@ title:  "Fall 18 Rushes"
 date:   2018-10-29
 excerpt: "New Members! :)"
 image: "/images/fa18-exec.jpg"
+published: false
 ---
 
 ## Fall 2018 Pledges
