@@ -1,7 +1,7 @@
 # Site
 title:              Alpha Chi Sigma | Zeta
 bio:                'Alpha Chi Sigma Zeta'
-description:        "The offiial Alpha Chi Sigma Zeta website"
+description:        "The official Alpha Chi Sigma Zeta website"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site

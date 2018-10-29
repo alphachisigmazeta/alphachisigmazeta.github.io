@@ -1,27 +1,54 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: Alpha Chi Sigma Zeta
+description: The official website of the Zeta chapter of the Alpha Chi Sigma Fraterntiy at the University of Illinois
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## About our Site
+## About Alpha Chi Sigma
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/axe-logo.png" | absolute_url }}" alt="" /></span>
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+Alpha Chi Sigma is a unique professional and social fraternity for men and women in the chemical sciences. We are bound by three fraternal objects, which are:
+1. To bind its members with a tie of true and lasting friendship.
+1. To strive for the advancement of chemistry, both as a science and as a profession.
+1. To aid its members by every honorable means in the attainment of their ambitions as chemists throughout their mortal lives.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+### Professional:
+Being a unique professional fraternity with close ties to the school of chemical sciences, we are able to host many professional activities. Some of these include:
+- Hosting the annual Krug Lecture
+- Arranging faculty chats and luncheons
+- Hosting alumni and company chats
+- Teaching boy-scouts Chemistry to attain their Chemistry Merit Badge
+- Performing chemistry demo shows for local youth
 
-### Content is Imortant
+### Social
+In addition to the many professional events, members share the benefit of attending the many social events. Past events have included:
+- Movie Nights
+- Intramural Sports
+- Semi-formal
+- Barn-Dances
+- Chapter Dinners
+
+### Why should I join?
 <div class="box">
   <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
+There is no other fraternity quite like Alpha Chi Sigma. Ask any one of our active members and they will probably say that joining AXE was one of the best decisions they’ve made in university. Many people join for the benefit their resume receives from our many professional events that we hold, while others do it for the social interaction with colleagues in their field of study. The fraternal bonds that you make by joining are sure to last a lifetime.
   </p>
 </div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+### Our History
+<div class="box">
+  <p>
+The Zeta Chapter of Alpha Chi Sigma is located at the University of Illinois— Urbana-Champaign. We were founded on May 27, 1908, and have initiated more than 2,750 men and women. Our educational backgrounds are primarily rooted in the chemical sciences, but we are open to other majors.
+  </p>
+</div>
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+### Learn More
+
+| Information         | Link                              |
+| -------------       | -----:                            |
+| Current Exec Board  | <a href="{{ "/blog/current-exec" | absolute_url }}">Exec</a>    |
+| Active Professors   | [Professors](#)                   |
