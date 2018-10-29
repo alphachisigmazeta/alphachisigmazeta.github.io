@@ -25,5 +25,5 @@ Feel free to explore and learn about the history of Alpha Chi Sigma
 
 | Information         | Link                              |
 | -------------       | -----:                            |
-| Fall 2018 Rushes    | <a href="{{ "/blog/current-exec" | absolute_url }}">Exec</a>    |
-| Fall 2018 Exec      | [Professors](#)                   |
+| Fall 2018 Rushes    | [FA18](/blog/fa18-rushes)         |
+| Fall 2018 Exec      | [FA18](/blog/fa18-exec)           |
