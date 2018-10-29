@@ -11,6 +11,7 @@ sitemap:
 
 You will be able to find all our events on our Facebook Page (link in navbar).
 Furthermore, we publish our events as well as announcements here.
+If you initiated through the Zeta chapter and would like to recieve our minutes/e-mails about updates, subscribe through [here](https://goo.gl/forms/al1syI1hanK3PBb43)
 
 ---
 
