@@ -19,4 +19,4 @@ Alpha Chi Sigma. To carry on this traditional, the Zeta chapter will post the ad
 
 | Posts                   | Link                               | Author                            |
 | -------------           | :-----:                            | -----:
-| Looking Forward 2018    | [Link](/germ/looking-forward-2018) | Caleb Ju |
+| Zeta Quark Q2           | [Link](/files/fa18-zeta-quark.pdf) | Sasu Tuladhar |
