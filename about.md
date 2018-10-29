@@ -51,4 +51,5 @@ The Zeta Chapter of Alpha Chi Sigma is located at the University of Illinois— 
 | Information         | Link                                    |
 | -------------       | -----:                                  |
 | Current Exec Board  | [Board](/blog/fa18-exec)                |
+| Contact E-mails     | [Emails](/blog/axe-contact-info)        |
 | Active Professors   | [Professors](/blog/axe-professor-list)  |
