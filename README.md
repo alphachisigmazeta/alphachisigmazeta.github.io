@@ -1,59 +1,55 @@
-# Massively
-> This is Massively, a text-heavy, article-oriented design built around a huge background
-image.
+## Hello
 
-## How to Use This Theme
-Jekyll consumes themes in two flavors; gem-based or spread across multiple folders
-in the site source. This port is of the second type. Concretely, it means that you
-can simply grab the [zip][zip] or clone this repository, run `bundle install`
-in the new directory and finally `bundle exec jekyll serve`.
-You can now access your brand-new Jekyll site on [http://127.0.0.1:4000/][local].
-Enjoy!
+Hello (future) Cyber Alchemists. First, credit where credit is due. This website was **generously**
+used thanks to [Massively](#). Any modifications where subsequently made by [Caleb Ju](github.com/jucaleb4).
 
-If you're completely new to Jekyll, check out it's [documentation][jekyll] first.
-It's not too hard, we promise!
+Now we are done, let's get to how you edit this **beast**.
 
-[zip]: https://github.com/iwiedenm/jekyll-theme-massively-src/archive/master.zip
-[local]: http://127.0.0.1:4000/
-[jekyll]: https://jekyllrb.com/
+First, I will discuss the structure of the files, and then how to edit it (coding/no-coding experience).
 
-## Features
-### Auto-Generating Sitemap
-The sitemap is auto generated! Just simply change the sitemap variable in front matter of each page. It looks like so...
-```
-sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
-```
+If you look at the directy, there are *a lot* of files. Don't panic, let's break it down. 
+(Note: Anytime you see a "\*" it just means literally any text. It's part of [regex](https://www.rexegg.com/regex-quickstart.html)
+but just not anytime I put a star, it means any file of that kind. E.g. \*.md means any file
+that ends in ".md")
 
-### Formspree.io Integration
-Formspree is supported out of the box! Just add your email to ```_config.yml``` and test the form.
-You have to confirm your email address the first time you use it on each url. Alternatively,
-move the from to a dedicated page or consider a pro subscription.
+-> README.md (you are reading this now!)
+-> index.html
+-> \*.md
+-> files
+ |
+ --> \*.\*
+-> images
+ |
+ -> \*.png
+ -> \*.jpg
+-> \_posts
+ |
+ -> \*.md
+-> \*\*
 
+First, the `README.md` is the file you are currently reading now. Unless you made some crazy contribution, 
+don't touch that.
 
-## Credits
-### Original README from HTML5 UP
-```
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Second, `index.html` is the home page. You likely won't need to touch that unless you know what you are doing.
 
+Third, you will notice *a lot* of `*.md` files. These are the different pages of the website (Germ, About, etc.).
+Markdown files only contain the relevant text. We keep the html files in `_include` and `_layouts`. You probably
+don't want to touch those
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+Fourth, probably the more important one are the `/files/` and `/images/` folders. These are important,
+as they hold the actual files and images we use throughout the website. If you want to add more, simply past them
+into that folder (you can do it through Github by clicking the `upload new file` with the correct Github account).
+Anytime you want to paste it in a markdown file, just make sure to do reference it as `/images/whatever.jpg` or
+`/files/your_file.pdf`. 
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Fifth, and **the** most important is the folder `_posts`. This is where any new blog post will go. Just make sure
+to copy the exact format of any previous post. **Make sure** to include the (annoying) date in front of the file name
+(e.g. 2018-01-01-...) otherwise the website will not pick it up.
 
-(* = not included)
+That's it!
 
-AJ
-aj@lkn.io | @ajlkn
+You can make all these changes on Github. If you can coding experience, just clone this directory to your terminal
+and follow as such. Github will automatically render Jekyll files, so that makes this easy.
 
 
 Credits:
