@@ -72,7 +72,7 @@ print(array[len(array)/2])
 '''
 ```
 
-### Finally we look at conditionals
+### Conditionals and iterative functions
 ```python
 x = 6
 y = 7
@@ -80,8 +80,36 @@ if(x > y):
     x = y
 else:
     y = x
+
 '''
 Question. What is the code above doing?
+'''
+
+for i in range(5):
+    print(i) # this will print values [0,5)
+
+i = 0
+while(i < 5):
+    print(i)
+    i = i + 1
+'''
+Question. What is the difference between the two?
+'''
+```
+
+### Finally, functions
+```python
+def mystery(arr):
+    total = 0
+    for i in range(len(arr)):
+        total = total + arr[i]
+    return total
+
+array = [1,2,3,4,5]
+value = mystery(array)
+print(value)
+'''
+Question. What does the above do?
 '''
 ```
 
