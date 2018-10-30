@@ -22,3 +22,4 @@ If you initiated through the Zeta chapter and would like to recieve our minutes/
 | Coding Workshop               | [Facebook Link](https://www.facebook.com/events/2272287636132703/) | Nov 12th, 2018 |
 | Professor Sing Professor Chat | [Facebook Link](https://www.facebook.com/events/2239325379684698/) | Nov 5th, 2018 |
 | Brothers Research Panel       | [Facebook Link](https://www.facebook.com/events/560469654392042/560497477722593/?notif_t=plan_mall_activity&notif_id=1540837641362756) | Nov 1st, 2018 |
+| Chinese Cultural Night        | [Facebook Link](https://www.facebook.com/events/1027438684093918/?notif_t=plan_user_invited&notif_id=1540850486432909) | Nov 2nd, 2018 |
