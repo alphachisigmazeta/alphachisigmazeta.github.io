@@ -12,20 +12,19 @@ If you look at the directy, there are *a lot* of files. Don't panic, let's break
 but just not anytime I put a star, it means any file of that kind. E.g. \*.md means any file
 that ends in ".md")
 
--> README.md (you are reading this now!)
--> index.html
--> \*.md
--> files
- |
- --> \*.\*
--> images
- |
- -> \*.png
- -> \*.jpg
--> \_posts
- |
- -> \*.md
--> \*\*
+| First level | Second level |
+|:-----------:|:-----------:|
+|README.md (you are reading this now!)|
+|index.html|
+|\*.md|
+|files|
+||--> \*.\*
+|images|
+||-> \*.png
+||-> \*.jpg
+|\_posts|
+||-> \*.md
+|\*\*|
 
 First, the `README.md` is the file you are currently reading now. Unless you made some crazy contribution, 
 don't touch that.
