@@ -1,7 +1,7 @@
 ## Hello
 
 Hello (future) Cyber Alchemists. First, credit where credit is due. This website was **generously**
-used thanks to [Massively](#). Any modifications where subsequently made by [Caleb Ju](github.com/jucaleb4).
+used thanks to [Massively](https://github.com/iwiedenm/jekyll-theme-massively-src) Any modifications where subsequently made by [Caleb Ju](github.com/jucaleb4).
 
 Now we are done, let's get to how you edit this **beast**.
 
@@ -53,21 +53,28 @@ That's it!
 
 ## What Changes to I have to Make
 
-#### Board + Rush Start
+#### Board + Rush Start (Before Semester/Rush)
+You will need to do two thing: update the exec page and insert the rush info page
 
+To update the exec page, you will:
 
-## Making Changes
-You can make all these changes on Github. If you can coding experience, just clone this directory to your terminal
-and follow as such. Github will automatically render Jekyll files, so that makes this easy.
+1. Copy [old exec](https://github.com/alphachisigmazeta/alphachisigmazeta.github.io/blob/master/_posts/2018-10-29-fa18-exec.md) file into the `/_posts/` folder
+1. Edit it with relevant information and update pictures
+1. Add the the link to [Archive](https://github.com/alphachisigmazeta/alphachisigmazeta.github.io/blob/master/archive.md) page by
+using `[SemesterYear](/blog/semesteryear-exec)`
+1. Update the `Current Exec` with the same link as step 3 in the [About](https://github.com/alphachisigmazeta/alphachisigmazeta.github.io/blob/master/about.md) file
 
-As Cyber Alchemists, you are required to update the Rush and Exec page before rush begins and place them in archives.
-After the new initates, you are expected to gather and upate the Rush page with all the info. And finally, you are
-expected to update the Announcements/Events page will relevant information as well as update *The Germ* will
-posts and blogs and spotlights from our members on a weekly basis. 
+To update the rush info, we will be temporarily removing the pledge info page and using the rush info
+
+1.
+1.
+1.
+
+## How do I create/edit a file?
 
 ## Why don't we use Weebly? 
 I will say Weebly is easy. However, look at the quality of the website compared to other orgs 
-1. [ACS](https://www.rexegg.com/regex-quickstart.html)
+1. [ACS](http://uiucacs.wixsite.com/uiucacs/officers-2016-2017)
 1. [OXE](https://illinois-oxe.weebly.com/)
 1. [AIChE](http://aiche.scs.illinois.edu/) This one is pretty good actually
 
