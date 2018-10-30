@@ -3,7 +3,6 @@ layout: post
 title:  "Coding Session"
 date:   2018-10-30
 excerpt: "Learn to Code"
-image: "/images/fa18-exec.jpg"
 published: true
 ---
 
@@ -17,7 +16,7 @@ if __name__ == '__main__':
 
 Here are some basic usages:
 
-First, we will look at basic variables and arrays
+### Intro to variables and syntax
 ```python
 x = 5
 print(x) # this will print 5
@@ -40,7 +39,10 @@ z = (0.0 + x)/2
 '''
 Hard Question. What are y and x
 '''
+```
 
+### Now we move to arrays
+```python
 array = [1,2,3,4,5]
 print(array[0]) # this will print 1... I know, weird
 print(array[4]) # this will print 5
@@ -68,7 +70,10 @@ print(len(array)) # will print length of the array :: 6
 Question. What will the following print
 print(array[len(array)/2]) 
 '''
+```
 
+### Finally we look at conditionals
+```python
 x = 6
 y = 7
 if(x > y):
