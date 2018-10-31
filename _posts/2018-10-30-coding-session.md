@@ -18,8 +18,6 @@ if __name__ == '__main__':
 Make sure you have [Python3](https://www.python.org/download/releases/3.0/) installed. I recommend [Anaconda](https://www.anaconda.com/download/#linux) to handle all your downloads. However, it downloads a lot of excess stuff, so if you want to be advanced, you can download from here for [Windows](https://www.python.org/downloads/) and [Mac](https://www.python.org/downloads/mac-osx/).
 
 
-Here are some basic usages:
-
 ### Intro to variables and syntax
 ```python
 x = 5
