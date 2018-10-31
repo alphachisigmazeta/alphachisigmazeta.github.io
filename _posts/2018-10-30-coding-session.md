@@ -14,6 +14,10 @@ if __name__ == '__main__':
     main()
 ```
 
+### How do I install?
+Make sure you have [Python3](https://www.python.org/download/releases/3.0/) installed. I recommend [Anaconda](https://www.anaconda.com/download/#linux) to handle all your downloads. However, it downloads a lot of excess stuff, so if you want to be advanced, you can download from here for [Windows](https://www.python.org/downloads/) and [Mac](https://www.python.org/downloads/mac-osx/).
+
+
 Here are some basic usages:
 
 ### Intro to variables and syntax
@@ -175,8 +179,7 @@ In your `makeDecisionToBuyOrsell()`, you are given the price, array to hold any 
 
 Your job is to use only those three variables to decide whether to return a keyword of "sell", "buy", or "" for nothing. (Note: You can only own one stock, so trying to buy a stock when you have 1 will do nothing).
 
-### How do I run the code?
-Make sure you have [Python3](https://www.python.org/download/releases/3.0/) installed. I recommend [Anaconda](https://www.anaconda.com/download/#linux) to handle all your downloads. However, it downloads a lot of excess stuff, so if you want to be advanced, you can download from here for [Windows](https://www.python.org/downloads/) and [Mac](https://www.python.org/downloads/mac-osx/).
+### How to run the code
 
 Once you have Python3 and your code is error free, just run the compy.py file with `python3 comp.py` to run a single run. We will be using allcomp.py to do the contest. **Make sure to not change comp.py. If you do, the code will remove any changes.**
 
