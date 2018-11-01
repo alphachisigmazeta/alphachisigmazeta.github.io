@@ -22,9 +22,15 @@ Make sure you have [Python3](https://www.python.org/download/releases/3.0/) inst
 ```python
 x = 5
 
-print(x) # this will print 5
-
 x = x + 5
+
+print(x) # this will print 10
+
+x = x * 2
+x = x / 2
+x = x - x
+
+print(x)
 
 A = "Alpha"
 S = 'Sigma'
